@@ -11,6 +11,6 @@ Eyerki sms gönderdiğiniz kişinin telefonuna sms gitmediğini görürseniz bun
 
 # Version
 
-Python son sürümü gereksinimi mevcuttur.
+Python 3.10.x sürümü gereksinimi mevcuttur.
 
 Sadece windows sürümünde aktif olarak çalışmaktadır.
